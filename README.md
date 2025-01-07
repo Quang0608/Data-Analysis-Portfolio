@@ -5,7 +5,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of contents
 - [About](https://github.com/Quang0608/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects]
+- [Portfolio Projects](https://github.com/Quang0608/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
 
 
 ## Portfolio Projects
