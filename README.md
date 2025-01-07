@@ -10,3 +10,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 In this section I will showcases projects that I've made to improve my analytics skills and use different technology in problem solving
+### Analysing Covid19 data
+**Code:** [`Covid19 Analysis.sql`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/Covid19_Data_Exploration.sql)
+
+**Description:** The dataset captures detailed records of Covid-19 cases, fatalities, and vaccination efforts across countries during 2020-2021. This project delves into crucial steps such as data loading, meticulous cleaning, preprocessing, and an insightful exploratory data analysis (EDA) to uncover patterns and trends.
+
+**Skills:** Joins, Window Functions, Aggregations Functions
+
+**Technology** PostgreSql
