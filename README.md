@@ -21,6 +21,7 @@ In this section I will showcases projects that I've made to improve my analytics
 
 ### RFM Analysis for Customer Segmentation
 **Code:** [`RFM_Segmentaion.sql`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/RFM_Segmentation.sql)
+**Report**[`Customer 360 report`](https://drive.google.com/file/d/1Ex6pbtV7TY55nRX_lsN-MG3VKPTBkC_P/view?usp=sharing)
 
 **Description:** This project aims to develop a comprehensive understanding of our customer base by creating a Customer 360 profile, analyzing transaction data, and applying Recency, Frequency, Monetary (RFM) metrics to segment customers. The insights derived will empower the marketing team to design targeted campaigns and implement effective customer policies, ultimately enhancing customer engagement and driving sales growth.
 
