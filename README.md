@@ -29,7 +29,7 @@ In this section I will showcases projects that I've made to improve my analytics
 
 **Technology** SQL Server, Power BI
 
-### Predicting ROAS Based on Number of App Installations
+<h3 style="color:blue;">Predicting ROAS Based on Number of App Installations</h3>
 **Code**[`Predict ROAS.`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/Predict%20ROAS%20project.ipynb)
 
 **Description:** This project analyzes the relationship between the number of app installations and ROAS (Return on Ad Spend) on Day 0. The goal is to explore how installation volume affects ad revenue performance and build regression-based models to predict ROAS on following days.
