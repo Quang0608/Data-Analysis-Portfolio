@@ -10,14 +10,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Portfolio Projects
 In this section I will showcases projects that I've made to improve my analytics skills and use different technology in problem solving
-### Analysing Covid19 data
-**Code:** [`Covid19 Analysis.sql`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/Covid19_Data_Exploration.sql)
+### UNIACE SEO & Marketing Performance Dashboard
+**Dashboard:**[`Uniace SEO Dashboard`](https://app.powerbi.com/view?r=eyJrIjoiOWM3NDQ5ZTItNjQwMi00ZDdlLTlkZjAtNTIwYzFlYmY4YTJkIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
-**Description:** The dataset captures detailed records of Covid-19 cases, fatalities, and vaccination efforts across countries during 2020-2021. This project delves into crucial steps such as data loading, meticulous cleaning, preprocessing, and an insightful exploratory data analysis (EDA) to uncover patterns and trends.
+**Description:** UNIACE is an educational organization offering a variety of courses in data analytics, Power BI, soft skills, and personal development for both students and employees. This project evaluates the effectiveness of UNIACE’s 2025 marketing campaigns by analyzing website user activity logs and course purchase records. The analysis focuses on user engagement patterns, traffic channels, and content interactions to uncover key behaviors that drive course purchases. Insights were visualized through an interactive dashboard that helps the organization monitor campaign impact, identify high-value user segments, and optimize future marketing strategies.
 
-**Skills:** Joins, Window Functions, Aggregations Functions
-
-**Technology** PostgreSql
+**Skill** Data Analysis, Exploratory Data Analysis (EDA), Funnel Analysis, User Behavior Analytics, A/B Test Analysis
 
 ### RFM Analysis for Customer Segmentation
 **Code:** [`RFM_Segmentaion.sql`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/RFM_Segmentation.sql)
@@ -27,8 +25,6 @@ In this section I will showcases projects that I've made to improve my analytics
 
 **Skills:** RFM-Segmentation, Customer-Analytics, SQL-Window-Functions, PowerBI-Dashboard
 
-**Technology** SQL Server, Power BI
-
 ### Predicting ROAS Based on Number of App Installations
 **Code:**[`Predict ROAS.ipynb`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/Predict%20ROAS%20project.ipynb)
 
@@ -37,3 +33,19 @@ In this section I will showcases projects that I've made to improve my analytics
 **Skills** Predictive analysis, time-series analysis, machine learning, statistical analysis
 
 **Technology/Library** Pandas, Numpy, Seaborn, Matplotlib, LinearRegression, Polynomial Regression
+
+**Technology** SQL Server, Power BI
+
+### Analysing Covid19 data
+**Code:** [`Covid19 Analysis.sql`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/Covid19_Data_Exploration.sql)
+
+**Description:** The dataset captures detailed records of Covid-19 cases, fatalities, and vaccination efforts across countries during 2020-2021. This project delves into crucial steps such as data loading, meticulous cleaning, preprocessing, and an insightful exploratory data analysis (EDA) to uncover patterns and trends.
+
+**Skills:** Joins, Window Functions, Aggregations Functions
+
+**Technology** PostgreSql
+
+
+
+
+
