@@ -17,6 +17,16 @@ In this section I will showcases projects that I've made to improve my analytics
 
 **Skill** Data Analysis, Exploratory Data Analysis (EDA), Funnel Analysis, User Behavior Analytics, A/B Test Analysis
 
+### VP Bank CRM Report
+**Report:**[`CRM Report`](https://drive.google.com/file/d/1VaIv222ppJRG-D0uqiOnJswEPQ8eAwGy/view)
+
+**Description:** This report presents a comprehensive analysis of service usage and customer composition at VPBank’s branch. By evaluating the adoption of banking products across customer segments and geographic regions, the analysis uncovers key patterns in customer behavior and service utilization, providing insights to support data-driven decision-making.
+
+### Shopee Promotion Performance Analysis and Fraud Risk Assessment
+**Report:**[`Analysis Report`](https://drive.google.com/file/d/1BCukm8nwFCxA4mBjOboa-JSrpeV2xohI/view)
+
+**Description:** Shopee launched a limited-time promotional campaign aimed at boosting customer engagement and transaction volume. While the campaign delivered increased activity across the platform, early analysis indicates the presence of abnormal transaction patterns. These patterns suggest potential collusion between certain customers and sellers to exploit the promotion. This report provides an overview of the promotion’s performance and examines potential fraudulent behaviors associated with abusive usage of promotional incentives.
+
 ### RFM Analysis for Customer Segmentation
 **Code:** [`RFM_Segmentaion.sql`](https://github.com/Quang0608/PortfolioProject/blob/main/src/sql/RFM_Segmentation.sql)
 **Report**[`Customer 360 report`](https://drive.google.com/file/d/1Ex6pbtV7TY55nRX_lsN-MG3VKPTBkC_P/view?usp=sharing)
